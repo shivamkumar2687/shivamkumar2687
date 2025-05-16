@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Kumar</h1>
-<h3 align="center">I am a passionate iOS and Full Stack Developer currently pursuing a B.Tech in Computer Science <br>(Graduating 2026), with hands-on experience in building real-world applications. <br>I have interned at Infosys where I contributed to impactful projects like an iOS Hospital Management System.</br>I was honored to be selected among the top 100 students for the Apple & Infosys iOS App Development Program.</h3>
+<h3 align="center">I am a passionate iOS and Full Stack Developer </h3>
 
 - 🔭 I’m currently working on **Interview Prep iOS App**
 
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivamkumar2687/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivamkumar2687/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/shivamkumar2687/](https://www.linkedin.com/in/shivamkumar2687/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/shivamkumar2687/](https://www.linkedin.com/in/shivamkumar2687/)" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
