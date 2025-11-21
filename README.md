@@ -5,7 +5,9 @@
 
 - 🏅 Winner, Smart India Hackathon 2025 Prequalifier
 
-- 💬 Ask me about **Swift, Java, DSA, Web Development**
+- Ex-iOS Mobile Application Development Intern at Infosys Limited
+
+- 💬 Ask me about **Swift, Java, DSA, Mobile & Web Development**
 
 
 
